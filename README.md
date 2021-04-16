@@ -1,4 +1,4 @@
-#### Hi, I'm Sepehr 👋🏼
+### Hi, I'm Sepehr 👋🏼
 
 * 👨🏻‍💻 I'm a full-stack developer
 * 🎓 I have a B.S. in Computer Science
