@@ -2,9 +2,10 @@
 
 * 👨🏻‍💻 I'm a full-stack developer
 * 🎓 I have a B.S. in Computer Science
-* 🔜 I will pursue my Master's degree in Data Science
+* 🔜 I will pursue my Master's degree in Computer Science
 * 📈 I love contributing to open source projects
-* 👀 I'm a data enthusiast 
+* 👀 I'm a AI and data enthusiast
+* 🔝 Lifelong learner
 * 💼 My [LinkedIn](https://www.linkedin.com/in/sepehr-jalali/)
 
 <!---
