@@ -1,6 +1,6 @@
 ### Hi, I'm Sepehr 👋🏼
 
-* 👨🏻‍💻 I'm a full-stack developer
+* 👨🏻‍💻 I'm a Software Engineer
 * 🎓 I have a B.S. in Computer Science
 * 🔜 I will pursue my Master's degree in Computer Science
 * 📈 I love contributing to open source projects
