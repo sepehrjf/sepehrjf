@@ -1,11 +1,11 @@
 ### Hi, I'm Sepehr 👋🏼
 
-* 👨🏻‍💻 I'm a Software Engineer
-* 🎓  I have a B.S. in Computer Science
-* 🔜  I will pursue my Master's degree in Computer Science
-* 📈  I love contributing to open source projects
-* 👀  I'm a AI and data enthusiast
-* 🔝  Lifelong learner
+* 👨🏻‍💻 Software Engineer
+* 📚 Pursuing my master's degree in Computer Science at USC
+* 🎓 B.S. in Computer Science
+* 🌏 Love contributing to open source projects
+* 👀 Web Development, Data, and AI enthusiast
+* 🔝 Lifelong learner
 * 💼  My [LinkedIn](https://www.linkedin.com/in/sepehr-jalali/)
 
 <!---
