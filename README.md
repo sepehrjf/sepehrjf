@@ -5,9 +5,7 @@
 🎓 M.S. in Computer Science  
 
 💡 App Development and ML enthusiast  
-🌏 Love contributing to open-source projects  
-
-💼  [My LinkedIn](https://www.linkedin.com/in/sepehr-jalali/)
+🌏 Love contributing to open-source projects
 
 <!---
 sepehrjf/sepehrjf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
